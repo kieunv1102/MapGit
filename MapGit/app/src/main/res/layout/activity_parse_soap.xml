@@ -10,7 +10,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.kieunv.mapgit.ParseSoapActivity">
 <TextView
-    android:id="@+id/tvaaaa"
+    android:id="@+id/txtResponse"
     android:layout_width="match_parent"
     android:layout_height="wrap_content" />
 </RelativeLayout>
